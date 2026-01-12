@@ -20,3 +20,5 @@ A sleek, modern job application form interface built for seamless user experienc
    git clone [https://github.com//Prakharcodes433/inlet-v2.git](https://github.com//Prakharcodes433/inlet-v2.git)
 
 2. Open index.html in your browser.
+
+## Form Appearance on Desktop
