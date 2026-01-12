@@ -8,7 +8,7 @@ A sleek, modern job application form interface built for seamless user experienc
 * **User-Friendly:** Organized layout for quick data entry.
 * **Custom Styling:** Tailored inputs, radio buttons, and action buttons.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **HTML5**
 * **CSS3** (Flexbox/Grid)
 * **Google Fonts**
