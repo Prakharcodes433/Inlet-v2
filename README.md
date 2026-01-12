@@ -18,3 +18,5 @@ A sleek, modern job application form interface built for seamless user experienc
 1. Clone the repository:
    ```bash
    git clone [https://github.com//Prakharcodes433/inlet-v2.git](https://github.com//Prakharcodes433/inlet-v2.git)
+
+2.Open index.html in your browser.
