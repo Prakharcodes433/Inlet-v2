@@ -1,4 +1,4 @@
-# Inlet-v2
+<img width="917" height="898" alt="Screenshot 2026-01-12 215152" src="https://github.com/user-attachments/assets/5a34ef1e-99f6-41a1-9387-d61efaae5dfa" /># Inlet-v2
 
 A sleek, modern job application form interface built for seamless user experience.
 
@@ -22,3 +22,6 @@ A sleek, modern job application form interface built for seamless user experienc
 2. Open index.html in your browser.
 
 ## Form Appearance on Desktop
+
+<img width="917" height="898" alt="Screenshot 2026-01-12 215152" src="https://github.com/user-attachments/assets/4f5836d9-3666-4771-8a12-02afe1d73580" />
+
