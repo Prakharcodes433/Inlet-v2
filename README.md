@@ -13,4 +13,4 @@ A sleek, modern job application form interface built for seamless user experienc
 * **CSS3** (Flexbox/Grid)
 * **Google Fonts**
 
-## 📂 Installation
+##  Installation
