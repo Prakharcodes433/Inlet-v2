@@ -23,5 +23,3 @@ A sleek, modern job application form interface built for seamless user experienc
 
 ## Form Appearance on Desktop
 
-<img width="600" height="600" alt="Form appearance on desktop" src="https://github.com/user-attachments/assets/4f5836d9-3666-4771-8a12-02afe1d73580" />
-
